@@ -11,10 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print "hello bascUIdemoBTNTXT"
+        print ("hello bascUIdemoBTNTXT")
         print("how do you do")
     }
-
 
 }
 
